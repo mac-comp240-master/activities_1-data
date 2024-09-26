@@ -45,6 +45,7 @@ in your own terminal on the server, e.g.
 
 	man man
 
+Entering `q` should exit but you should check the output of man. It should display a messaging telling you how to quit. 
 
 Using `showbytes.c`, answer the following question in your text file:
   
